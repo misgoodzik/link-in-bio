@@ -1,5 +1,3 @@
-Here’s a full README template for your GitHub repository:
-
 ---
 
 # Link in Bio
